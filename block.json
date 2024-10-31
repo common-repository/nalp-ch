@@ -1,0 +1,15 @@
+{
+	"apiVersion": 2,
+	"name": "create-block/nalp",
+	"title": "Nalp.ch",
+	"category": "widgets",
+	"description": "Block for easy booking integration",
+	"textdomain": "nalp",
+	"supports": {
+		"html": false
+	},
+	"editorScript": "file:./build/index.js",
+	"editorStyle": "file:./build/index.css",
+	"style": "file:./build/style-index.css",
+    "script": "file:.build/front.js"
+}
